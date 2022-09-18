@@ -29,12 +29,12 @@ Several interactive dashboards were created using Tableau public;
 1) General trends in carbon credit from 2011 to 2020 issued by scope and registry [here](https://public.tableau.com/app/profile/sarah8808/viz/TrendsinCarbonIssuedbyRegistryScope/Dashboard15)
 
 2) Global trends from 2011 to 2020- by country, partitioned by scope, type (subset of project scope) and carbon reduction/removal projects
-	a) Reported carbon credits issued (placed on the market)  [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditIssuance/CarbonCredIssued#2)
-	b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditsRetired/CarbonCredRetired)
+(a) Reported carbon credits issued (placed on the market)  [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditIssuance/CarbonCredIssued#2)
+(b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditsRetired/CarbonCredRetired)
 
 3) U.S. trends in from 2011-2020
-	a) Reported carbon credits issued (placed on the market) [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditIssuance/CarbonCredIssued)
-	b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/U_S_DistributionofCarbonCreditRetired/U_S_CarbonCredRetired)
+(a) Reported carbon credits issued (placed on the market) [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditIssuance/CarbonCredIssued)
+(b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/U_S_DistributionofCarbonCreditRetired/U_S_CarbonCredRetired)
 
 
 ## Tools
