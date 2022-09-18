@@ -21,7 +21,7 @@ While there is no necessity for carbon offset projects to be within proximity to
 The original Voluntary Carbon Offset dataset from UC Berkeley’s Carbon Trading Project was in wide format and contained 6081 projects with 148 features. The dataset includes variables on the voluntary registry for the project, project location (world region, country, and, if relevant, state and exact locale), project developer, project scope, detail on project type and methodology used, as well as carbon credits issued/registered/retired each year (since 1996). Data on the global and U.S. CO2 emissions were filtered for only year 2019.
 
 ### Data Cleaning
-	Data cleaning was limited to data transformation (from wide to long) for the voluntary carbon market registry data and some manually resolving of country names to merge country/state level carbon emission data with the voluntary carbon market registry data. After transforming the data to long format there were 17 categorical variables and 6 continuous variables of potential interest. As 2457 projects listed had no carbon credits issued yet, a remaining 3624 entries for projects were used for years 2011 to 2020. 
+Data cleaning was limited to data transformation (from wide to long) for the voluntary carbon market registry data and some manually resolving of country names to merge country/state level carbon emission data with the voluntary carbon market registry data. After transforming the data to long format there were 17 categorical variables and 6 continuous variables of potential interest. As 2457 projects listed had no carbon credits issued yet, a remaining 3624 entries for projects were used for years 2011 to 2020. 
 ### Aggregation
 For overall annual trends of carbon credits issued, annual credits were aggregated by scope and voluntary registry. For annual global or national dashboards, carbon credits issued were aggregated across particular locations, given the project scope, type, contributions to carbon reductions or removal, and ARB status. 
 ### Visualization
@@ -29,12 +29,12 @@ Several interactive dashboards were created using Tableau public;
 1) General trends in carbon credit from 2011 to 2020 issued by scope and registry [here](https://public.tableau.com/app/profile/sarah8808/viz/TrendsinCarbonIssuedbyRegistryScope/Dashboard15)
 
 2) Global trends from 2011 to 2020- by country, partitioned by scope, type (subset of project scope) and carbon reduction/removal projects
-a) Reported carbon credits issued (placed on the market)  [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditIssuance/CarbonCredIssued#2)
-b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditsRetired/CarbonCredRetired)
+	a) Reported carbon credits issued (placed on the market)  [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditIssuance/CarbonCredIssued#2)
+	b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditsRetired/CarbonCredRetired)
 
 3) U.S. trends in from 2011-2020
-a) Reported carbon credits issued (placed on the market) [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditIssuance/CarbonCredIssued)
-b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/U_S_DistributionofCarbonCreditRetired/U_S_CarbonCredRetired)
+	a) Reported carbon credits issued (placed on the market) [here](https://public.tableau.com/app/profile/sarah8808/viz/GlobalDistributionofCarbonCreditIssuance/CarbonCredIssued)
+	b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/U_S_DistributionofCarbonCreditRetired/U_S_CarbonCredRetired)
 
 
 ## Tools
