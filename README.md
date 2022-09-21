@@ -14,7 +14,7 @@ In U.S., carbon offset projects are predominantly issued along the West and East
 
 
 <details>
-  <summary><h2>Background/Design</h2></summary>
+  <summary><h2>Background/Design</h2> (click for details)</summary>
 
 ### Main Dataset
 UC Berkeley’s Carbon Trading Project has consolidated all project activity from  four registries into [a database](https://gspp.berkeley.edu/faculty-and-impact/centers/cepp/projects/berkeley-carbon-trading-project/offsets-database), which includes specific dates (i.e., the year the project began, the year the carbon credits were issued and retired)  as well as specific aspects of the project (i.e., number of carbon credits allocated to the project, the project scope, the country/state). The voluntary carbon market has four major carbon registries that all have three main objectives: 
@@ -31,7 +31,7 @@ While there is no necessity for carbon offset projects to be within proximity to
 </details>
 
 <details>
-  <summary><h2>Data</h2></summary>
+  <summary><h2>Data</h2> (click for details)</summary>
 
 The original Voluntary Carbon Offset dataset from UC Berkeley’s Carbon Trading Project was in wide format and contained 6081 projects with 148 features. The dataset includes variables on the voluntary registry for the project, project location (world region, country, and, if relevant, state and exact locale), project developer, project scope, detail on project type and methodology used, as well as carbon credits issued/registered/retired each year (since 1996). Data on the global and U.S. CO2 emissions were filtered for only year 2019.
 
