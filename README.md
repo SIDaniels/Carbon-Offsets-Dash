@@ -52,8 +52,9 @@ Several interactive dashboards were created using Tableau public;
 (a) Reported carbon credits issued (placed on the market) [here](https://public.tableau.com/app/profile/sarah8808/viz/U_S_DistributionofCarbonCreditIssuance/U_S_CarbonCredIssuance)
 (b) Reported carbon credits retired (sold to GHG emitting entity) [here](https://public.tableau.com/app/profile/sarah8808/viz/U_S_DistributionofCarbonCreditRetired_v2/U_S_CarbonCredRetired)
 
-![alt text](https://github.com/SIDaniels/Carbon-Offsets-Dash/blob/main/Image_example.png)
+![alt text](./Image_example.png)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SIDaniels/Carbon-Offsets-Dash/HEAD?labpath=PROJECTS_Data_Reshape.ipynb)
 
 ## Tools
 - Python (Pandas)
