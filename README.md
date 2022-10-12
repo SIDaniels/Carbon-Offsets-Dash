@@ -54,7 +54,11 @@ Several interactive dashboards were created using Tableau public;
 
 ![alt text](./Image_example.png)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SIDaniels/Carbon-Offsets-Dash/HEAD?labpath=PROJECTS_Data_Reshape.ipynb)
+### Visualize on binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SIDaniels/Carbon-Offsets-Dash/HEAD?labpath=PROJECTS_Data_Reshape.blank.ipynb)
+
+[(rendered version)](https://mybinder.org/v2/gh/SIDaniels/Carbon-Offsets-Dash/HEAD?labpath=PROJECTS_Data_Reshape.ipynb)
 
 ## Tools
 - Python (Pandas)
